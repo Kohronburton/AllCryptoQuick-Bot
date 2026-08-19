@@ -1,3 +1,10 @@
+> **Provenance notice**  
+> This repository is retained as historical reference/customization work. Its setup documentation identifies the upstream project as [EvercodeLab/changenow-bot](https://github.com/EvercodeLab/changenow-bot). It is not presented as an original Kohron Burton codebase or a current production system.
+>
+> Review the upstream license, repository history, dependencies, and security requirements before reuse.
+
+---
+
 
 # Changenow Bot
 
